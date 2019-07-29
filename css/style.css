@@ -1,0 +1,199 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.float-right {
+	float: right !important;
+}
+
+.float-left {
+	float: left !important;
+}
+
+.row {
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+.col-sm-8 .title {
+	font-weight: bold;
+}
+
+.blue {
+	color: #00bcd4;
+	font-weight: bold;
+}
+
+.layout3, .layout4 {
+	border: 3px solid #00bcd4;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.title {
+	margin-left: 20px;
+	margin-right: 20px; 
+}
+
+.padding-10 {
+	padding: 10px;
+}
+
+.color {
+	background-color: #999;
+}
+
+.border {
+	border: 2px solid white;
+}
+
+.hover tbody tr:hover {
+	background-color: #00bcd4;
+}
+
+.slider-news {
+	margin-left: 10px;
+}
+
+.title-social {
+	margin: 20px;
+}
+
+.about {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.system-require, .social {
+	margin-right: 40px;
+	margin-left: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.social h5 {
+	margin-top: 8px;
+}
+
+.icon img {
+	padding: 5px;
+	width: 50px;
+	height: auto;
+}
+
+.footer {
+	padding: 20px;
+}
+
+.image img {
+	padding: 10px;
+}
+
+.text p {
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.modal-dialog {
+	color: black;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.main, .main-download, .main-tutorial {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.main-rank {
+	padding: 15px;
+}
+
+.main-tutorial {
+	font-size: 17px;
+}
+
+table tr .hover-indo:hover {
+	color: white !important;
+}
+
+.container-login {
+	max-width: 300px;
+	margin: auto;
+}
+
+.footer-login2, .header-login {
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+.footer-login2 .text-login {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.links {
+	color: #00bcd4;
+	text-decoration: none !important;
+}
+
+.note {
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+}
+
+.btn-link {
+	text-decoration: none !important;
+	font-weight: bold;
+	color: #00bcd4;
+}
+
+.btn-link:hover {
+	color: #bee5eb;
+}
+
+.card-body p{
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.main-search {
+	max-width: 400px;
+	margin: auto;
+}
+
+.page-404, .page-403{
+	text-align: center;
+	font-size: 200px;
+	font-weight: bold;
+}
+
+.page-404 img{
+	margin-bottom: 40px;
+	width: 160px;
+}
+
+.page-403 img{
+	margin-bottom: 40px;
+	width: 190px;
+}
+
+.notice-404, .notice-403, .back{
+	text-align: center;
+	font-size: 25px;
+}
+
+.button-404, .button-403, .pembatas p, .back{
+	text-align: center;
+}
